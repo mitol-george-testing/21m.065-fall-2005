@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music Theory"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Performance"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "22543a3d-63e2-20c6-174d-f9ac6aafcfb4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Musical Composition",
+  "course_description": "Through a progressive series of composition projects, this course investigates the sonic organization of musical works and performances, focusing on fundamental questions of unity and variety. Aesthetic issues are considered in the pragmatic context of the instructions that composers provide to achieve a desired musical result, whether these instructions are notated in prose, as graphic images, or in symbolic notation. No formal training is required. Weekly listening, reading, and composition assignments draw on a broad range of musical styles and intellectual traditions, from various cultures and historical periods.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.065",
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
